@@ -39,12 +39,12 @@ cd SQL-Query-Generator
 ```
   
 3. **Install Dependencies**:
-   -For server:
+   - For server:
   ```bash
     cd server
     npm install
   ```
- -For client:
+   - For client:
    ```bash
      cd ../client
      npm install
